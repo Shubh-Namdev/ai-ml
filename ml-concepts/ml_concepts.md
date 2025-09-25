@@ -1,0 +1,21 @@
+#  ML Concepts
+
+- # What is ML ?
+   - Machine Learning is a subset of Artificial Intelligence model 
+   - It's a way to teach computers to find patterns instead of programming them.
+- # Why ML ?
+   - ML is required so we don't need to code everything
+   - ML models are trained on large data so for most of the queries they respond
+- # ML Flow
+   - Data
+   - Cleaning the data
+   - Training data/Test data
+   - Create a model
+   - Training
+   - Prediction
+   - Evaluate and improve
+- # Prerequisite
+   - Python basics
+   - Numpy basics
+   - Pandas basics
+   - Anaconda(optional)
