@@ -1,0 +1,9 @@
+RAG stands for Retrieval Augmented Generation. 
+It is a technique that improves the factual accuracy of language models by connecting them with external knowledge sources.
+
+A RAG pipeline consists of two main components: 
+a retriever and a generator. 
+The retriever searches for relevant documents or chunks from a database using vector embeddings. 
+The generator then uses these retrieved texts as context to produce a more accurate answer.
+
+RAG is widely used in enterprise search, chatbots, and knowledge assistants.

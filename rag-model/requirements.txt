@@ -1,0 +1,13 @@
+# Core dependencies
+fastapi==0.115.0
+uvicorn==0.32.0
+
+# Vector database and embeddings
+chromadb==0.5.5
+sentence-transformers==3.2.0
+
+# HTTP client for Ollama
+requests==2.32.3
+
+# Optional (for testing and data handling)
+pandas==2.2.3
